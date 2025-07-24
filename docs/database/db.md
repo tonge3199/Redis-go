@@ -14,3 +14,4 @@ type redisDb struct {
 ```
 add operation 
   key (string) : value (any Redis object)
+
