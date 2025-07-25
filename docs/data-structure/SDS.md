@@ -1,4 +1,4 @@
-## so far just using string for simplicity and usability
+go implementation still not use string , due to lack of performance and lack compatibility of binary and more formats.
 
-TODO: added SDS properties , functions, data structures
+should use serialization customed format RESP
 
