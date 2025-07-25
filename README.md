@@ -1,4 +1,6 @@
 ## In progress ...
--[x] TCP package 
+-[x] TCP package
 -[ ] redis package
-  -[ ] parser  
+  -[ ] parser 
+  -[ ] protocol
+-[ ] logger package
